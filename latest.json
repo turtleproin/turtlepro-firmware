@@ -4,7 +4,8 @@
     "build": 11,
     "otaName": "PIR_OTA_v1_1",
     "url": "https://github.com/turtleproin/turtlepro-firmware/releases/download/v1.1/TurtleTrap_PIR_OTA_v1_1.bin",
-    "sha256": "REPLACE_WITH_SHA256",
+    "sha256": "74C6DDABED6B3CF150A4A13DC15794025F423BD71BDC4E7D1F674A9DEB32E112"
+,
     "notes": "Software update support and reliability improvements."
   },
   "pir_lidar": {
@@ -12,7 +13,9 @@
     "build": 11,
     "otaName": "LIDAR_OTA_v1_1",
     "url": "https://github.com/turtleproin/turtlepro-firmware/releases/download/v1.1/TurtleTrap_LIDAR_OTA_v1_1.bin",
-    "sha256": "REPLACE_WITH_SHA256",
+    "sha256": "EAFFC31EC3EE6DFB11FBA6D4E2E6D2217BAE60C84393852C485E638CEE953D61",
+
+
     "notes": "Software update support and reliability improvements."
   },
   "active_beam": {
